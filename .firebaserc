@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "ideal-presets-development",
+    "production": "idealpresets"
+  }
+}

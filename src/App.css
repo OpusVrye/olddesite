@@ -1,0 +1,18 @@
+
+.App-logo {
+  /* height: 40vmin; */
+  max-width: 100vmin;
+  pointer-events: none;
+}
+
+#AppTest{
+  text-align: center;
+  padding: 10px 0px;
+  background-color: #dfdfdf;
+}
+
+#appMain{
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+}
